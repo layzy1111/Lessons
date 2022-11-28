@@ -1,5 +1,6 @@
 pizza = 'piperoni'
-if pizza == 'chesse':
-    print('this is my not favorite pizza')
-if pizza == 'piperoni':
-    (print('this is my favorite pizza'))
+print("Is pizza == 'piperoni'? I predict True.")
+print (pizza == 'piperoni')
+
+print("\hIs pizza == 'chesse'? I predict False.")
+print (pizza == 'chesse')
